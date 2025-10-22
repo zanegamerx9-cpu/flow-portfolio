@@ -2,36 +2,6 @@
 <html>
 <head>
   <title>My First Webpage</title>
-<style>
-  body {
-    background-color: #4b3f3f;
-    font-family: Arial, sans-serif;
-  }
-
-  h1 {
-    color: #0441b3;
-    text-align: center;
-  }
-
-  h2 {
-    color: #150c96;
-  }
-
-  p {
-    color: #f10505;
-  }
-
-  ul {
-    background-color: #4b3f3f;
-    padding: 15px;
-    border-radius: 10px;
-  }
-
-  li {
-    margin: 5px 0;
-  }
-</style>
-
 </head>
 <body>
   <h1>Hello, Flow!</h1>
